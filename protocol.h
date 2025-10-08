@@ -1,5 +1,3 @@
-// $Id: protocol.h,v 1.12 2021-05-18 01:32:29-07 - - $
-
 #ifndef __PROTOCOL__H__
 #define __PROTOCOL__H__
 
