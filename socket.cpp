@@ -1,5 +1,3 @@
-// $Id: socket.cpp,v 1.5 2021-05-12 21:22:38-07 - - $
-
 #include <cerrno>
 #include <cstring>
 #include <iostream>
