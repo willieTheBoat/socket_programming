@@ -1,11 +1,3 @@
-//
-// class logstream
-// replacement for initial cout so that each call to a logstream
-// will prefix the line of output with an identification string
-// and a process id.  Template functions must be in header files
-// and the others are trivial.
-//
-
 #ifndef __LOGSTREAM_H__
 #define __LOGSTREAM_H__
 
