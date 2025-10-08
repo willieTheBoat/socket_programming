@@ -1,5 +1,3 @@
-// $Id: cxid.cpp,v 1.10 2021-11-16 16:11:40-08 - - $
-
 #include <iostream>
 #include <string>
 #include <vector>
