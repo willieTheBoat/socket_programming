@@ -1,5 +1,3 @@
-// $Id: logstream.h,v 1.6 2021-02-24 15:29:53-08 - - $
-
 //
 // class logstream
 // replacement for initial cout so that each call to a logstream
